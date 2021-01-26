@@ -1,7 +1,7 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Selcan Aydin"
+subtitle: "Postdoctoral Researcher@ The Jackson Laboratory"
+description: "Hi! I am Selcan Aydin. Currently, working with Dr. Steve Munger as a postdoctoral associate at The Jackson Laboratory. My research interests include quantitative genetics, systems biology and cell signaling. My current research plans focus on defining the role of genetic variation in cell fate decisions with an emphasis on embryonic stem cells and mouse development. In addition to science, I am passionate about teaching, mentoring and scientific outreach. I am a certified Software Carpentry and RStudio instructor. Outside of lab I enjoy the outdoors by hiking, snowshoeing and gardening!"
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
