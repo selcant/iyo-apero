@@ -7,8 +7,6 @@ date: 2021-01-02
 draft: false
 ---
 
-{{< here >}}
-
 
 ## part 2!
 
